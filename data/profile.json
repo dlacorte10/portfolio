@@ -16,8 +16,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "React",
@@ -43,18 +43,17 @@
   "languages": [
     "Português BR",
     "Inglês (Fluente)",
-    "Espanhol (básico)",
-    "Italiano (iniciante)"
+    "Espanhol (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de um site E-Sports para incentivar a prática de esportes.",
+      "url": "https://github.com/dlacorte10/esports-web",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto de pontuação de Filmes incluindo o Backend e o Frontend.",
+      "url": "https://github.com/dlacorte10/dsmovie",
       "github": true
     }
   ],
